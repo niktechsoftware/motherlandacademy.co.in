@@ -1,0 +1,98 @@
+.dl-menuwrapper{display:none;}
+@media (min-width:1200px){}
+@media (min-width:992px) and (max-width:1199px){.nav_2 ul li a{padding:10px;}
+.top_nav li a, .login_wrap li a{padding:8px 6px;}
+h3{font-size:24px;}
+h5{font-size:18px;}
+.kf_edu2_intro_wrap::before{width:40%;}
+.kf_intro_des_wrap{width:60%;}
+.edu2_gallery_des ul li{line-height:normal;margin:0px;}
+.edu2_gallery_des ul li a{line-height:normal;font-weight:normal;}
+.wiget-instagram ul li{width:60px}
+.edu2_event_wrap.side_change{padding:30px 30px 20px 220px}
+.edu2_event_wrap{padding:30px 220px 20px 30px}
+.edu2_event_wrap figure{width:200px;}
+.edu2_event_wrap .post-option > li{line-height:normal;}
+.edu2_event_wrap.side_change .post-option li{margin:0px;float:right;}
+.edu2_event_wrap .post-option{margin:0px;}
+.edu2_event_wrap .edu2_event_des{padding:0px;}
+.edu2_event_des span{font-size:52px;top:0px;}
+.edu2_event_wrap .edu2_event_des h4{margin-bottom:15px;}
+.edu2_event_des p{line-height:normal;margin:0px;}
+.edu2_event_wrap figure{margin-top:-76px;}
+.kf_courses_wrap figure{margin-bottom:30px;}
+.nav_2{padding:20px 0;}
+}
+
+@media (min-width:768px) and (max-width:979px){}
+@media (max-width:767px){.edu_testemonial_wrap>figure{margin-right: 3em;}
+.edu_testemonial_wrap .kode-text{padding-left:9px !important;}
+.kf_edu2_heading2{margin:-8px 0 10px !important;}
+.kf_edu2_tab_des .row.margin-bottom{margin-bottom:19px !important;}
+.kf_footer_bg, section{padding:20px 0 !important;}
+.kf_edu2_intro_wrap:before{width:100% !important;}
+.kf_cur_catg_wrap{padding:69px 0;}
+.kf_cur_catg_des{}
+#kode-header{position:relative;}
+.top_nav{display:none;}
+.edu2_main_bn_wrap figcaption span, .edu2_main_bn_wrap figcaption p, .edu2_main_bn_wrap .btn-1{display:none;}
+.edu2_main_bn_wrap figcaption h1{font-size:30px;}
+.edu2_main_bn_wrap figure figcaption{margin:0px;padding:68px 0;top:30%;}
+.kf_intro_des{width:100% !important;margin:15px 0px;}
+.kf_intro_des_wrap{width:100% !important;}
+.kf_edu2_intro_wrap::before{width:100%;opacity:0.1}
+.edu2_counter_des{width:100% !important;border-right:none;border-bottom:solid 1px rgba(255,255,255,0.3);border-right:0 !important;}
+.edu2_event_des{width:100%;}
+.student_slider_thumb{display:none;}
+.edu2_event_wrap{padding:20px;}
+.edu2_event_wrap::before{right:0px;}
+.edu2_event_wrap .edu2_event_des{width:100%;}
+.edu2_event_wrap figure{position:relative;float:left;width:100%;margin:0px;}
+.side_change::before{left:0px;}
+.kf_event_list_wrap{padding:30px;}
+.kf_event_speakers_des{margin-bottom:30px;}
+.event_gallery_des{float:none;margin:0 -1%;width:auto;}
+.event_gallery_des li{width:48%;margin:1% 1%;}
+.event_gallery_des li img{width:100%;}
+.event_link{margin-top:30px;}
+.kf_courses_tabs .nav-tabs > li{width:100%;}
+.kf_courses_tabs .nav-tabs > li a{padding:10px 10px;}
+.kf_inr_breadcrumb{display:none;}
+.inr_banner_heading{width:100%;}
+.teacher_bio_logo{width:100%;}
+.teacher_bio_des ul li{margin-right:15px;}
+.skill_progress_des{padding:30px;}
+.kf_training_des{padding:30px;width:100%;}
+.kf_training_date{width:100%;padding:30px 30px 0px 30px;text-align:left;}
+.kf_training_wrap li:nth-child(2n) .kf_training_date{padding:30px 30px 0px 30px}
+.kf_training_wrap ul li::before, .kf_training_wrap ul li::after{display:none;}
+.kf_training_wrap ul li{border:solid 1px #ccc;margin-bottom:20px;padding:0px;}
+.kf_training_wrap li:nth-child(2n) .kf_training_des{padding:30px 30px 30px 30px;text-align:left;}
+.filterable_thumb figure{margin:0px;}
+.error_des span{font-size:140px;top:-90px;}
+.error_wrap{padding:98px 0 0px}
+.error_thumb{width:100%;position:static;float:left;}
+.error_thumb figure img{width:150%;max-width:inherit;}
+.location_des{margin:-182px 0 0 -63px}
+.kf_courses_wrap figure{margin-bottom:30px;}
+#filterable-item-filter-1 li{margin:3px;}
+.edu2_ft_logo_wrap {
+    float: none!important;
+    text-align: center!important;
+    width: 100% !important;
+}
+.socialicon {
+    padding: 0 0 !important;
+    margin: 0;
+    list-style: none;
+    display: inline-flex;
+}
+.socialicon li {
+    float: none !important;
+    margin: 0px auto;
+}
+.kf_edu2_training_des{ display:none}
+.edu2_gallery_des .col-xs-12 {margin-bottom:1em !important;}
+.edu2_gallery_wrap .gallery3 .col-xs-12{ margin-bottom:1em }
+
+}
