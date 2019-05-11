@@ -9,7 +9,7 @@
                         <div class="col-md-7 hidden-xs">
                             <ul class="login_wrap">
                                 <li><a href="contact-us.html"><i class="fa fa-phone"></i>contact us</a></li>
-                                <li><a href="Admin/login.html"><i class="fa fa-sign-in"></i>Admin Login</a></li>
+                                <li><a href="https://schoolerp-niktech.in/school/index.php/homeController/index.Niktech"><i class="fa fa-sign-in"></i>Admin Login</a></li>
                             </ul>
                         </div>
                     </div>

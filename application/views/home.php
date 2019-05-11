@@ -1,7 +1,7 @@
 <div class="edu2_main_bn_wrap">
     <div id="owl-demo-main" class="owl-carousel owl-theme">
       <div class="item">
-        <figure> <img src="<?php echo base_url();?>assets/images/banner/banner_5.jpg" alt="Mother land academy is one of the best schools in kanpur" />
+        <figure> <img src="<?php echo base_url();?>assets/images/banner/banner_5.jpg" alt="South City Public School is one of the best schools in kanpur" />
           <figcaption><span>The Best School in Kanpur Dehat </span>
             <h1>welcome To Mother Land Acedemy</h1>
             <p>100% results with toppers in all streams</p>
@@ -9,7 +9,7 @@
         </figure>
       </div>
 	    <div class="item">
-        <figure> <img src="<?php echo base_url();?>assets/images/banner/banner_1.jpg" alt="Mother land academy is one of the best schools in kanpur" />
+        <figure> <img src="<?php echo base_url();?>assets/images/banner/banner_1.jpg" alt="South City Public School is one of the best schools in kanpur" />
           <figcaption><span>Open Sprited</span>
             <h1>Walk in to your future</h1>
             <p>A Place Where Children Love To Do What They Love</p>
@@ -19,7 +19,7 @@
 	  
 	  
       <div class="item">
-        <figure> <img src="<?php echo base_url();?>assets/images/banner/banner_2.jpg" alt="Mother land academy is one of the best schools in kanpur" />
+        <figure> <img src="<?php echo base_url();?>assets/images/banner/banner_2.jpg" alt="South City Public School is one of the best schools in kanpur" />
           <figcaption><span>Holistic education and </span>
             <h1>personality development</h1>
             <p>We are the largest education School.</p>
@@ -154,7 +154,7 @@ Sys.WebForms.PageRequestManager._initialize('ctl00$ContentBody$SM1', 'form1', ['
             <h6>ACHIEVEMENTS</h6>
             <p>Extra-curricular activities play an important role in shaping , transforming and developing the personality of a young child. </p>
             <a href="index-2.html" class="hidden">view more</a> </div>
-          <figure> <img src="<?php echo base_url();?>assets/images/achievment_img.jpg" alt="Mother land academy is one of the best schools in kanpur" />
+          <figure> <img src="<?php echo base_url();?>assets/images/achievment_img.jpg" alt="South City Public School is one of the best schools in kanpur" />
             <figcaption></figcaption>
           </figure>
         </div>
@@ -165,7 +165,7 @@ Sys.WebForms.PageRequestManager._initialize('ctl00$ContentBody$SM1', 'form1', ['
 
 </p>
             <a href="index-2.html" class="hidden">view more</a> </div>
-          <figure> <img src="<?php echo base_url();?>assets/images/curricular_img.jpg" alt="Mother land academy is one of the best schools in kanpur" />
+          <figure> <img src="<?php echo base_url();?>assets/images/curricular_img.jpg" alt="South City Public School is one of the best schools in kanpur" />
             <figcaption></figcaption>
           </figure>
         </div>
@@ -174,7 +174,7 @@ Sys.WebForms.PageRequestManager._initialize('ctl00$ContentBody$SM1', 'form1', ['
             <h6>DANCE</h6>
             <p>The dance may be an informal play, a part of a ritual, or a part of a professional performance.</p>
             <a href="index-2.html" class="hidden">view more</a> </div>
-          <figure> <img src="<?php echo base_url();?>assets/images/dance_img.jpg" alt="Mother land academy is one of the best schools in kanpur" />
+          <figure> <img src="<?php echo base_url();?>assets/images/dance_img.jpg" alt="South City Public School is one of the best schools in kanpur" />
             <figcaption></figcaption>
           </figure>
         </div>
@@ -186,7 +186,7 @@ Sys.WebForms.PageRequestManager._initialize('ctl00$ContentBody$SM1', 'form1', ['
 
 </p>
             <a href="index-2.html" class="hidden">view more</a> </div>
-          <figure> <img src="<?php echo base_url();?>assets/images/toppers_img.jpg" alt="Mother land academy is one of the best schools in kanpur" />
+          <figure> <img src="<?php echo base_url();?>assets/images/toppers_img.jpg" alt="South City Public School is one of the best schools in kanpur" />
             <figcaption></figcaption>
           </figure>
         </div>
@@ -204,7 +204,7 @@ Sys.WebForms.PageRequestManager._initialize('ctl00$ContentBody$SM1', 'form1', ['
             <div id="owl-demo-8" class="owl-carousel owl-theme">
               <div class="item">
                 <div class="edu2_faculty_des">
-                  <figure> <img src="<?php echo base_url();?>assets/images/faculty-mb1.html" alt="Mother land academy is one of the best schools in kanpur" /> </figure>
+                  <figure> <img src="<?php echo base_url();?>assets/images/faculty-mb1.html" alt="South City Public School is one of the best schools in kanpur" /> </figure>
                   <div class="edu2_faculty_des2">
                     <h6><a href="index-2.html">Teacher Name</a></h6>
                     <strong>Designation</strong> </div>
@@ -212,7 +212,7 @@ Sys.WebForms.PageRequestManager._initialize('ctl00$ContentBody$SM1', 'form1', ['
               </div>
               <div class="item">
                 <div class="edu2_faculty_des">
-                  <figure> <img src="<?php echo base_url();?>assets/images/faculty-mb2.html" alt="Mother land academy is one of the best schools in kanpur" /> </figure>
+                  <figure> <img src="<?php echo base_url();?>assets/images/faculty-mb2.html" alt="South City Public School is one of the best schools in kanpur" /> </figure>
                   <div class="edu2_faculty_des2">
                     <h6><a href="index-2.html">Teacher Name</a></h6>
                     <strong>Designation</strong> </div>
@@ -220,7 +220,7 @@ Sys.WebForms.PageRequestManager._initialize('ctl00$ContentBody$SM1', 'form1', ['
               </div>
               <div class="item">
                 <div class="edu2_faculty_des">
-                  <figure> <img src="<?php echo base_url();?>assets/images/faculty-mb3.html" alt="Mother land academy is one of the best schools in kanpur" /> </figure>
+                  <figure> <img src="<?php echo base_url();?>assets/images/faculty-mb3.html" alt="South City Public School is one of the best schools in kanpur" /> </figure>
                   <div class="edu2_faculty_des2">
                     <h6><a href="index-2.html">Teacher Name</a></h6>
                     <strong>Designation</strong> </div>
@@ -228,7 +228,7 @@ Sys.WebForms.PageRequestManager._initialize('ctl00$ContentBody$SM1', 'form1', ['
               </div>
               <div class="item">
                 <div class="edu2_faculty_des">
-                  <figure> <img src="<?php echo base_url();?>assets/images/faculty-mb4.html" alt="Mother land academy is one of the best schools in kanpur" /> </figure>
+                  <figure> <img src="<?php echo base_url();?>assets/images/faculty-mb4.html" alt="South City Public School is one of the best schools in kanpur" /> </figure>
                   <div class="edu2_faculty_des2">
                     <h6><a href="index-2.html">Teacher Name</a></h6>
                     <strong>Designation</strong> </div>
@@ -236,7 +236,7 @@ Sys.WebForms.PageRequestManager._initialize('ctl00$ContentBody$SM1', 'form1', ['
               </div>
               <div class="item">
                 <div class="edu2_faculty_des">
-                  <figure> <img src="<?php echo base_url();?>assets/images/faculty-mb1.html" alt="Mother land academy is one of the best schools in kanpur" /> </figure>
+                  <figure> <img src="<?php echo base_url();?>assets/images/faculty-mb1.html" alt="South City Public School is one of the best schools in kanpur" /> </figure>
                   <div class="edu2_faculty_des2">
                     <h6><a href="index-2.html">Teacher Name</a></h6>
                     <strong>Designation</strong> </div>
@@ -252,7 +252,7 @@ Sys.WebForms.PageRequestManager._initialize('ctl00$ContentBody$SM1', 'form1', ['
         <div class="row">
           <div class="col-md-4" hidden-sx>
             <div class="kf_edu2_training_des">
-              <figure> <img src="<?php echo base_url();?>assets/images/thanku.png" alt="Mother land academy is one of the best schools in kanpur" /> </figure>
+              <figure> <img src="<?php echo base_url();?>assets/images/thanku.png" alt="South City Public School is one of the best schools in kanpur" /> </figure>
             </div>
           </div>
           <div class="col-md-8">

@@ -36,7 +36,7 @@
 <p>Co-curricular activities, the true ethos of the institutions:</p>
 <p>
 “True education is to bring out the latent qualities of a child into light.”
-As every child is potentially divine, we at Mother land academy sincerely Endeavour, Keeping in mind the eight type of intelligence which our children possess and keep a perfect balance between scholastic & non scholastic section.</p>
+As every child is potentially divine, we at South City Public School sincerely Endeavour, Keeping in mind the eight type of intelligence which our children possess and keep a perfect balance between scholastic & non scholastic section.</p>
 <p>
 To do so, and to instill a healthy competition among students entire school is divided into four squads (Junior & Senior wing).
 To supplement the classroom education, and for all round personality development, various extended classroom activities are conducted throughout the session.
